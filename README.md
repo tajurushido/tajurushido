@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tajurushido
+- 👀 I’m interested in designing websites
+- 🌱 I’m currently learning Responsive Web Design
+- 📫 You can find me on LinkedIn as Rujuta Doshi
